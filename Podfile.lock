@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.5.1)
+  - Mockingjay (2.0.0):
+    - Mockingjay/Core (= 2.0.0)
+    - Mockingjay/XCTest (= 2.0.0)
+  - Mockingjay/Core (2.0.0):
+    - URITemplate (~> 2.0)
+  - Mockingjay/XCTest (2.0.0):
+    - Mockingjay/Core
+  - SwiftyJSON (4.0.0)
+  - URITemplate (2.0.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - Mockingjay
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Mockingjay: 7122a3fc0597aa63438e4cd9b71b7bc8aac05b87
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  URITemplate: ace0c4c46dcf8afe6e89b4060621852886b15c3b
+
+PODFILE CHECKSUM: 83c40fe658f4854d3631033e7b3e72529d35a32b
+
+COCOAPODS: 1.3.1
